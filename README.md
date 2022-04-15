@@ -25,3 +25,7 @@ npm start
 
 **Framework & Pakcages:** React, Axios, Bootstrap
 
+## Requirement Documentation
+
+[View Here](https://github.com/TechnourceOfficial/Technource-Leaderboard-Using-React/blob/main/public/Case%20Study%20Leaderboard%20using%20React.pdf)
+
