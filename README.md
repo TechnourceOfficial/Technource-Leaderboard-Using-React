@@ -7,6 +7,9 @@ Leadership board with player filter
 ## Below points taken care
 
 - Player doesn't exist in leadership data
+
+![App Screenshot](https://github.com/TechnourceOfficial/Technource-Leaderboard-Using-React/blob/main/public/player_not_exist_leaderboard.png)
+
 - Player exist with top 10 ranking
 - Player exist in leadership data but not in top 10 ranking
 
@@ -28,4 +31,6 @@ npm start
 ## Requirement Documentation
 
 [View Here](https://github.com/TechnourceOfficial/Technource-Leaderboard-Using-React/blob/main/public/Case%20Study%20Leaderboard%20using%20React.pdf)
+
+
 
