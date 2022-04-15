@@ -3,9 +3,10 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Button from 'react-bootstrap/Button';
 import axios from 'axios';
-import { searchElementIndex, sortPlayers, getTopPlayers, searchPlayers } from './shared/Functions';
+import { searchElementIndex, sortPlayers, getTopPlayers, searchPlayers } from '../shared/Functions';
+
 import SearchRecords from './SearchRecords';
-import { Constants } from './shared/Constants';
+import { Constants } from '../shared/Constants';
 
 const Layout = () => {
 

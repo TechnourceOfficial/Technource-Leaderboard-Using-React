@@ -1,5 +1,5 @@
 import React from 'react'
-import { Constants } from './shared/Constants';
+import { Constants } from '../shared/Constants';
 import Table from 'react-bootstrap/Table';
 import PropTypes from 'prop-types';
 
