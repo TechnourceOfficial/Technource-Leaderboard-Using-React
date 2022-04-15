@@ -1,19 +1,27 @@
-# Case Study Leaderboard Setup:
 
-#Please use below commands to run the project:
+# Case Study Leaderboard
 
-Step1 : npm i
+Leadership board with player filter
 
-Step2 : npm start
 
-It is running on port 3000 so url will be http://localhost:3000/
+## Below points taken care
 
-There are following points covered in this project setup
+- Player doesn't exist in leadership data
+- Player extis with top 10 ranking
+- Player exist in leadership data but not in top 10 ranking
 
-#1 Searched name is not there in Json
 
-#2 Searched Name is there in top 10 ranking
+## Installation
 
-#3 Searched Name is there in json but not in top 10 ranking
+Install and Run current with npm
 
+```bash
+cd <current project directory>
+npm install
+npm start
+```
+    
+## Tech Stack
+
+**Framework & Pakcages:** React, Axios, Bootstrap
 
