@@ -14,6 +14,6 @@ There are following points covered in this project setup
 
 #2 Searched Name is there in top 10 ranking
 
-#3 Searched Name is there in json but not in top 10
+#3 Searched Name is there in json but not in top 10 ranking
 
 
