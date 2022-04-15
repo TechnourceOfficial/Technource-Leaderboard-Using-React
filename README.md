@@ -7,13 +7,13 @@ Leadership board with player filter
 ## Below points taken care
 
 - Player doesn't exist in leadership data
-- Player extis with top 10 ranking
+- Player exist with top 10 ranking
 - Player exist in leadership data but not in top 10 ranking
 
 
 ## Installation
 
-Install and Run current with npm
+Install and Run current code with npm
 
 ```bash
 cd <current project directory>
