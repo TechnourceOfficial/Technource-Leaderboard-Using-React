@@ -11,7 +11,13 @@ Leadership board with player filter
 ![App Screenshot](https://github.com/TechnourceOfficial/Technource-Leaderboard-Using-React/blob/main/public/player_not_exist_leaderboard.png)
 
 - Player exist with top 10 ranking
+
+![App Screenshot](https://github.com/TechnourceOfficial/Technource-Leaderboard-Using-React/blob/main/public/player_exist_top_ten_ranking.png)
+
 - Player exist in leadership data but not in top 10 ranking
+
+![App Screenshot](https://github.com/TechnourceOfficial/Technource-Leaderboard-Using-React/blob/main/public/playerexist_leaderboard_not_toptenranking.png)
+
 
 
 ## Installation
